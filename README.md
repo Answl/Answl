@@ -30,7 +30,7 @@ Welcome to **Answl**'s GitHub profile! 🌱
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Answl&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Answl&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Answl&layout=compact&theme=white)
 
 ---
