@@ -22,9 +22,9 @@ Welcome to **Answl**'s GitHub profile! 🌱
 ---
 
 ### 🌟 Projects Highlights
-- **Clean House**: 공공 데이터를 활용한 데이터 분석 프로젝트로 선형 회귀, 클러스터링, 지도 API를 사용해 🥇 최우수상 수상.
+- **Clean House**: 공공 데이터를 활용한 데이터 분석 프로젝트로 선형 회귀, 클러스터링, 지도 API를 사용해 교내 빅데이터톤 🥈최우수상 수상.
 - [**INNOVEL**](https://github.com/solux-innovel/backend)  AI 기반 소설 작성 플랫폼에서 Spring Boot을 활용한 백엔드 서비스 구축.
-- [**SM137+**](https://github.com/SM-137/SM-137-Backend) [진행중] 본교의 기존 민원 서비스를 개선하는 새로운 플랫폼에서 Spring Boot을 활용한 백엔드 서비스 구축.
+- [**SM137+**](https://github.com/SM-137/SM-137-Backend) 본교의 기존 민원 서비스를 개선하는 새로운 플랫폼에서 Spring Boot을 활용한 백엔드 서비스 구축. 중앙동아리내 🥉우수상 수상.
 - [**마음길**](https://github.com/smwu-ITPLE) [진행중] 온라인 조문 서비스에서 Kotlin과 Spring Boot를 활용한 서비스 구축.
 
 ---
